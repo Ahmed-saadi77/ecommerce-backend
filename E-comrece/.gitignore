@@ -1,0 +1,23 @@
+﻿# Build & IDE folders
+bin/
+obj/
+.vs/
+.vscode/
+.idea/
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Secrets and config
+secrets.json
+appsettings.Development.json
+appsettings.*.json
+
+# Logs
+*.log
+
+# OS-specific
+Thumbs.db
+.DS_Store

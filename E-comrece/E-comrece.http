@@ -1,0 +1,6 @@
+@E_comrece_HostAddress = http://localhost:5192
+
+GET {{E_comrece_HostAddress}}/ecom/
+Accept: application/json
+
+###
